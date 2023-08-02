@@ -1,0 +1,2 @@
+# mynewcore
+Proyecto 7
